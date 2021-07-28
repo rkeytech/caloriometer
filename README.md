@@ -2,7 +2,7 @@
 A web app for managing the calories you retrieve from your foods, for helping you design the appropriate dishes, and having an overview of your stats.
 
 ### What's all the fuss about?
-<Placeholder for description>
+<--Placeholder for description-->
 
 ### To Do
 - [ ] Retrieve information about [calories](https://www.calories.com.gr/) with a scrape python library(Scrapy, BeautifulSoup)
